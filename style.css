@@ -1,0 +1,81 @@
+/* Estilo cabeçario da pagina */
+header {
+	background: url("aa.jpg");
+	padding: 20px 250px;
+}
+
+img {
+    width: 30%;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 155px;
+	right: 0;
+}
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+    padding: 0 45px;
+}
+nav a {
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+nav a:hover	{
+	color: #C32f27;
+	text-decoration: underline;
+}
+
+/* Estilo Corpo da pagina */
+
+.input-padrao {
+	display: block;
+    margin: 0 0 20px;
+    padding: 10px 15px;
+    width: 50%;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+form {
+    margin: 40px;
+}
+
+form label, form legend {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+
+
+
+footer {
+	text-align: center;
+	background: url("p.png");
+	padding: 15px ;
+}
+
+.img-rodape {
+    width: 30%;
+}
+
+.copyright {
+	color: white;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
