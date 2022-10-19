@@ -88,10 +88,6 @@ form label, form legend {
 	padding: 0 15px 25px;
 }
 
-.tabela {
-
-}
-
 table {
 	margin: 20px 0 40px;
 }
@@ -132,3 +128,22 @@ footer {
 
 /* Estilo produtos */
 
+.produtos {
+
+}
+
+.produtos h2 {
+
+}
+
+.produtos li {
+
+}
+
+.produto-descricao {
+
+}
+
+.produto-preco {
+
+}
